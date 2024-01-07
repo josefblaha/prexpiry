@@ -25,6 +25,6 @@ jobs:
     - name: Build
       run: dotnet build ./src/Prexpiry.sln --no-restore
     - name: Install Playwright tools
-      run: pwsh ./src/InstallPlaywrightTools.ps1
+      run: pwsh ./InstallPlaywrightTools.ps1
     - name: Test
       run: dotnet test ./src/Prexpiry.sln --no-build --verbosity normal
