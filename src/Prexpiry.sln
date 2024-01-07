@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prexpiry.WebApp", "Prexpiry.WebApp\Prexpiry.WebApp.csproj", "{06FB6DED-3A31-49CD-A495-8EE976D1AAF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prexpiry.Tests", "Prexpiry.Tests\Prexpiry.Tests.csproj", "{F312164A-F70D-4A32-98B3-FA12A2363E18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06FB6DED-3A31-49CD-A495-8EE976D1AAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06FB6DED-3A31-49CD-A495-8EE976D1AAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06FB6DED-3A31-49CD-A495-8EE976D1AAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06FB6DED-3A31-49CD-A495-8EE976D1AAF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F312164A-F70D-4A32-98B3-FA12A2363E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F312164A-F70D-4A32-98B3-FA12A2363E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F312164A-F70D-4A32-98B3-FA12A2363E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F312164A-F70D-4A32-98B3-FA12A2363E18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
